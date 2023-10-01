@@ -12,3 +12,13 @@ TCP IP Protocols (for real time data transfer)
 # Youtube video link
 
 https://youtu.be/dTsebtbNd6s
+
+# UI
+
+Phone A:
+
+![pic1](https://github.com/Kishan-Ved/ChildSafetyMonitoringApp/assets/124593234/811678f8-ed99-48b5-9266-f9b40c47f931)
+
+Phone B:
+
+![pic2](https://github.com/Kishan-Ved/ChildSafetyMonitoringApp/assets/124593234/fac1bc80-becc-4708-b032-4e9882c2be8e)
