@@ -1,5 +1,5 @@
 # ChildSafetyMonitoringApp
-This project consists of a mobile application to monitor child safety while cycling using the phone's GPS sensor, accelerometer and orientation sensor. There is also a provision of a free real time call using the local network. This app was made as an assignment in the Signal Systems and Random Processes course at IITGN.
+This project consists of a mobile application to monitor child safety while cycling using the phone's GPS sensor, accelerometer and orientation sensor. There is also a provision of a free real time call using the local network. This app was made as an assignment in the Signal Systems and Random Processes course at IITGN. This app is also integrated with a mini-version of Google Maps, made from scratch, for the IITGN campus, which allows real time location sharing.
 
 # Tech used:
 
