@@ -8,3 +8,7 @@ MATLAB (for the backend - converted to C)\
 Simulink (for building the UI)
 
 TCP IP Protocols (for real time data transfer)
+
+# Youtube video link
+
+https://youtu.be/dTsebtbNd6s
