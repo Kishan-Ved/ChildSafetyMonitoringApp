@@ -4,7 +4,7 @@ This project consists of a mobile application to monitor child safety while cycl
 ## Problem Statement:
 Design and deploy an Android/iOS app for a smart bicycle to help parents monitor their child’s safety.
 
-The smart bicycle has embedded hardware sensors and systems such as a gyroscope, accelerometer, GPS, microphone, and antenna. For this problem statement, assume that your Android/iOS mobile phone (Phone A)  behaves as the smart IoT embedded system and you are riding a (sensorless old-fashioned) bicycle. It should be able to transmit the data to your partner's device (parents’ Android/iOS mobile hereafter referred to as Phone 😎 for warning.
+The smart bicycle has embedded hardware sensors and systems such as a gyroscope, accelerometer, GPS, microphone, and antenna. For this problem statement, assume that your Android/iOS mobile phone (Phone A)  behaves as the smart IoT embedded system and you are riding a (sensorless old-fashioned) bicycle. It should be able to transmit the data to your partner's device (parents’ Android/iOS mobile hereafter referred to as Phone for warning.
 
 The child-monitoring Android/iOS app (during cycling) should be able to do the following:
 
