@@ -23,6 +23,10 @@ Play a beep alarm sound on your device (Phone A), with an option to switch OFF t
 Display the real-time location of phone A on phone B using Google Maps and play a beep sound on Phone B.
 If the alarm is not switched OFF within 5 seconds by Phone A, a) Switch on the microphone and camera of phone A automatically and start recording. b) Send an SOS from phone A to phone B by transmitting the recorded sound and images using mobile internet network. 
 
+## Demonstration: Youtube video link
+
+https://youtu.be/dTsebtbNd6s
+
 ## Tech used:
 
 MATLAB (for the backend - converted to C)\
@@ -30,10 +34,6 @@ MATLAB (for the backend - converted to C)\
 Simulink (for building the UI)
 
 TCP IP Protocols (for real time data transfer)
-
-## Youtube video link
-
-https://youtu.be/dTsebtbNd6s
 
 ## UI
 
